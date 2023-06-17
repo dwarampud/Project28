@@ -7,7 +7,7 @@ This is a web based application developed for health related telugu based websit
 
 
 **Project Link** - https://yellow-sky-04ba14900.3.azurestaticapps.net/
-**project demo vedio linl** - 
+**project demo vedio linl** - https://youtu.be/uHoVZ-zWZy8
 
 
 
