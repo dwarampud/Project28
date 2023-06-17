@@ -21,7 +21,7 @@ This is a web based application developed for health related telugu based websit
 
 ## Screenshots
 
- 📸![Screenshot 2022-03-07 090754](https://user-images.githubusercontent.com/98517345/156963750-f5d694b6-a371-4b41-817f-22c8291b37da.jpg)
+ 📸![Screenshot 2022-03-07 090754]
 ![Screenshot (5)](https://github.com/dwarampud/Project28/assets/124042777/0977685e-fa90-4b34-b582-16803d0d5de7)
 
 
