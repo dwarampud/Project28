@@ -47,9 +47,10 @@ This is a web based application developed for health related telugu based websit
 ### healthbot -
 
 
-![Screenshot 2022-03-07 090943](![Screenshot (7)](https://github.com/dwarampud/Project28/assets/124042777/9804413b-930b-47bf-bc6d-b9c013b38d8d)
+![Screenshot 2022-03-07 090943]
 
 
+![Screenshot (1)](https://github.com/dwarampud/Project28/assets/124042777/a32eaacc-9543-42e9-8be2-ba022651e0e6)
 
 
 ## Tech Stack 💻
