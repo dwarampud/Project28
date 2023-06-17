@@ -36,14 +36,14 @@ This is a web based application developed for health related telugu based websit
 
 ![Screenshot (6)](https://github.com/dwarampud/Project28/assets/124042777/e55ab0c7-6c8c-4ab1-99f2-8aefc87c495d)
 
-![Screenshot 2022-03-07 090859](https://user-images.githubusercontent.com/98517345/156963803-135e9564-ca95-458e-9074-0d7aa2f7d586.jpg)
+![Screenshot 2022-03-07 090859]
 
 
 ### healthbot -
 
 
 ![Screenshot 2022-03-07 090943](![Screenshot (7)](https://github.com/dwarampud/Project28/assets/124042777/9804413b-930b-47bf-bc6d-b9c013b38d8d)
-https://user-images.githubusercontent.com/98517345/156963849-e8ead038-b9ea-4320-9165-9f99cf00d9d2.jpg)
+
 
 
 
