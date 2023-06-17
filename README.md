@@ -8,7 +8,10 @@ This is a web based application developed for health related telugu based websit
 
 **Project Link** - https://yellow-sky-04ba14900.3.azurestaticapps.net/
 **project demo vedio linl** - 
-Azure technologies used for Project
+
+
+
+##Azure technologies used for Project
 .Static web apps
 .Health bot
 
